@@ -1,0 +1,99 @@
+.back{
+    background-position: top;
+    background-repeat: none;
+    background-size: cover;
+}
+.h1blanco{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 36px;
+    font-weight: normal;
+}
+.pblanco{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+}
+.card{
+    background-color: white;
+    border-radius: 20px;
+    border: solid white 1px;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+.h2centrado{
+    color: #000C40;
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    text-align: center;
+    padding-top: 30px;
+}
+.pcentrado{
+    color: #000C40;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+h3{
+    color: #000C40;
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    text-align: center;
+}
+li{
+    color: #000C40;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+}
+.boton{
+    background-color: red;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+.h2blancocentrado{
+    color: white;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    padding: 30px;
+}
+.logopegajoso{
+    width: 220px;
+    z-index: 150;
+    display:scroll;
+    position:fixed;
+    top:0px;
+    left:100px;
+}
+.pegajoso{
+    background-color: #FF8600;
+    padding: 20px;
+    width: 270px;
+    border-radius: 10px 0px 0px 10px;
+    z-index: 150;
+    display:scroll;
+    position:fixed;
+    top:200px;
+    right:0px;
+}
+.h2blancoleft{
+    color: white;
+    text-align: left;
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+}
+.pblancoleft{
+    color: white;
+    text-align: left;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    margin: 0;
+    padding: 10px;
+    font-weight: bold;
+}
