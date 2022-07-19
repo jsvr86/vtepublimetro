@@ -97,3 +97,11 @@ li{
     padding: 10px;
     font-weight: bold;
 }
+@media screen and (max-width: 770px){
+    .logopegajoso{
+        display: none;
+    }
+    .pegajoso{
+        display: none;
+    }
+}
